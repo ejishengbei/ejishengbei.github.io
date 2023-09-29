@@ -6,7 +6,7 @@ export default ({
 
     lastUpdated:true,
 
-    base:'/hanPress/',
+    // base:'/hanPress/',
 
     themeConfig:{
         //logo
