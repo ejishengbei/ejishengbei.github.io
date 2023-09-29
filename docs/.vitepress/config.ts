@@ -25,7 +25,7 @@ export default ({
         ],
 
         // 社交链接？
-        socialLinks:[{icon:'github', link:'http://www.baidu.com'}],
+        // socialLinks:[{icon:'github', link:'http://www.baidu.com'}],
 
         //侧边导航栏
         sidebar:[{
