@@ -13,16 +13,16 @@ export default ({
         logo:'/logo.png',
 
         // 导航栏
-        nav:[
-            {text:'mess',link:'./mess/000_markdown',},
+        // nav:[
+        //     {text:'mess',link:'./mess/000_markdown',},
 
-            {text:'下拉选择框',
-            items:[
-                {text:'option-1', link:'/'},
-                {text:'option-2', link:'http://www.baidu.com'}
-            ]
-            }
-        ],
+        //     {text:'下拉选择框',
+        //     items:[
+        //         {text:'option-1', link:'/'},
+        //         {text:'option-2', link:'http://www.baidu.com'}
+        //     ]
+        //     }
+        // ],
 
         // 社交链接？
         // socialLinks:[{icon:'github', link:'http://www.baidu.com'}],

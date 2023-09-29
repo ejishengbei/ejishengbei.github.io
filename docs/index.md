@@ -19,9 +19,9 @@ hero:
       # 按钮样式，brand或alt，默认brand
       theme: brand
 ---
-
+<!-- 
 [010_shellConmand](./mess/010_shellConmand.md)
 
 [011_condaCommand](./mess/011_condaCommand.md)
 
-[020_web](./mess/020_web)
+[020_web](./mess/020_web) -->
